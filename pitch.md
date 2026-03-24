@@ -91,7 +91,7 @@ Seeking collaboration with:
 - Strategic investors
 - Technology providers (CSP + desalination)
 - EPC contractors
-- Regional partners
+- Regional partners 
 
 ---
 
