@@ -105,4 +105,4 @@ The proposed system:
 - Uses proven mitigation technologies  
 - Aligns with global desalination practices  
 
-👉 With proper engineering and environmental management, the project presents a sustainable and scalable solution for water production in the Persian Gulf region.
+👉 With proper engineering and environmental management, the project presents a sustainable and scalable solution for water production in the Persian Gulf region. 
