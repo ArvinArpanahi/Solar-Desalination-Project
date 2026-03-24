@@ -191,3 +191,17 @@ This location strategy ensures:
 - Environmental sustainability
 - High investment attractiveness
 - Scalability across Persian Gulf region
+
+## 📌 Approximate Project Zones (Map Reference)
+
+### Mahshahr (Primary Site)
+- Coordinates: 30.556° N, 49.198° E
+- Suggested zone: North-East of Mahshahr industrial area (2–5 km inland)
+
+### Bandar Abbas
+- Coordinates: 27.183° N, 56.266° E
+- Suggested zone: Western outskirts, inland desert zone
+
+### Chabahar
+- Coordinates: 25.291° N, 60.643° E
+- Suggested zone: North of free zone area, elevated dry land
