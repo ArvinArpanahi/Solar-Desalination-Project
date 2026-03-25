@@ -1,4 +1,4 @@
-[3/25/2026 6:58 PM] Arvin Arpanahi: # 🌊 Solar Desalination & Mineral Recovery Project
+# 🌊 Solar Desalination & Mineral Recovery Project
 
 ![CSP Heliostat Field](images/csp-heliostat-field.jpg)
 
@@ -287,6 +287,6 @@ The project offers strategic value in multiple dimensions:
 To build a scalable, solar-powered desalination and resource recovery infrastructure that transforms seawater into a long-term economic and environmental asset for the Persian Gulf region.
 
 ---
-[3/25/2026 6:58 PM] Arvin Arpanahi: ## 📊 Project Pitch
+## 📊 Project Pitch
 
 👉 [View Pitch Overview](./pitch.md)
