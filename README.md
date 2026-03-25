@@ -1,4 +1,5 @@
 # 🌊 Solar Desalination & Mineral Recovery Project
+![CSP Heliostat Field](images/csp-heliostat-field.jpg)
 
 🚀 A large-scale, solar-powered desalination platform designed to deliver sustainable water, energy, and industrial resources across the Persian Gulf region.
 
