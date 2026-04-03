@@ -1,4 +1,4 @@
-[4/3/2026 9:31 PM] Arvin Arpanahi: # Risk Analysis & Mitigation Strategy
+# Risk Analysis & Mitigation Strategy
 
 ## Overview
 
@@ -223,7 +223,8 @@ Strategic misalignment can affect long-term project viability.
 ---
 
 ## Risk Matrix
-[4/3/2026 9:31 PM] Arvin Arpanahi: | Risk Category   | Probability | Impact | Priority |
+
+| Risk Category   | Probability | Impact | Priority |
 |----------------|------------|--------|----------|
 | Technical      | Medium     | High   | High     |
 | Financial      | High       | High   | Critical |
