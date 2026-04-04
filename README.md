@@ -1,64 +1,77 @@
-🌊 Solar Desalination & Mineral Recovery Project
+# 🌊 Solar Desalination & Mineral Recovery Project
+
+## Quick Overview
+
+A large-scale solar-powered desalination and mineral recovery infrastructure designed for long-term sustainable water and industrial resource production in the Persian Gulf region.
+
+---
+
+## Project Structure
+
+- [Project Concept](project-concept.md)
+- [Technical Design](technical-design.md)
+- [Location Strategy](location-strategy.md)
+- [Market Analysis](market-analysis.md)
+- [Financial Model](financial-model.md)
+- [Operations Plan](operations-plan.md)
+- [Implementation Roadmap](implementation-roadmap.md)
+- [Risk Analysis](risk-analysis.md)
+- [Team](team.md)
+- [Investor Deck](deck.md)
+
+---
 
 ![CSP Heliostat Field](images/csp-heliostat-field.jpg)
 
-🚀 A large-scale, solar-powered desalination and resource recovery platform designed to deliver sustainable water, energy, and industrial minerals across the Persian Gulf region.
+🚀 A large-scale, solar-powered desalination platform designed to deliver sustainable water, energy, and industrial resources across the Persian Gulf region.
 
 ---
 
 ## 📌 Executive Summary
 
-This project presents the development of a next-generation desalination infrastructure based on Concentrated Solar Power (CSP – solar tower technology), integrated with advanced thermal desalination and mineral recovery systems.
+This project proposes the development of a next-generation desalination infrastructure based on Concentrated Solar Power (CSP – solar tower technology).
 
-The platform is designed to convert seawater into multiple high-value outputs:
+By integrating:
 
-- Freshwater for municipal and industrial use  
-- Thermal energy for internal consumption and potential grid export  
-- Industrial minerals extracted from brine  
+- Solar thermal energy  
+- Industrial desalination systems  
+- Mineral recovery processes  
 
-👉 Investment Perspective:
-This is a multi-output infrastructure asset with diversified revenue streams, significantly reducing single-market dependency and enhancing long-term financial stability.
+the project transforms seawater into multiple revenue streams, including fresh water, clean energy, and industrial minerals.
 
----
-
-## 🌍 Strategic Rationale
-
-The Persian Gulf region faces increasing pressure from:
-
-- Water scarcity  
-- Rising industrial demand  
-- Heavy reliance on fossil-fuel-based desalination  
-
-This project directly addresses these challenges by integrating:
-
-- Renewable energy (solar thermal)  
-- Large-scale desalination  
-- Resource recovery  
-
-👉 Macroeconomic Impact:
-- Strengthens regional water security  
-- Reduces fossil fuel dependency  
-- Supports industrial expansion  
-- Generates foreign currency through exportable outputs  
+It is designed as a long-term infrastructure platform for coastal deployment in the Persian Gulf region, with strong potential for industrial integration, scalable expansion, and environmentally responsible resource production.
 
 ---
 
-## 🧩 System Overview
+## 🌍 Strategic Positioning
+
+This is not a standalone desalination plant.
+
+It is a scalable infrastructure platform designed for:
+
+- Regional deployment  
+- Industrial integration  
+- Long-term sustainable resource production  
+
+The project is intended to support growing water demand, reduce dependence on fossil-fuel-based desalination, and create additional economic value through energy and mineral recovery.
+
+---
+
+## 🧩 Overview
+
+## 🔧 System Overview
 
 ![System Diagram](images/csp-system-diagram.jpg)
 
-The system is based on a circular heliostat field focusing solar radiation onto a central receiver tower. The generated high-temperature thermal energy is used to power desalination processes and maintain stable operation via thermal storage.
+The project is based on a circular heliostat field that concentrates solar radiation onto a central tower receiver. The resulting high-temperature thermal energy is used to power desalination processes and support continuous operation through thermal storage.
 
-### Key Characteristics:
+Key characteristics:
 
-- High-efficiency solar thermal energy generation  
-- Continuous operation through molten salt storage  
-- Modular and scalable architecture  
-- Integrated desalination and mineral recovery  
-- Designed for phased deployment  
-
-👉 Cost Advantage:
-Thermal energy from CSP significantly reduces long-term operating costs compared to fossil-fuel-based desalination systems.
+- Solar-powered operation with low carbon intensity  
+- High-efficiency thermal energy generation  
+- Modular and scalable design  
+- Integration with desalination and mineral recovery systems  
+- Potential for phased implementation based on investment scale  
 
 ---
 
@@ -68,13 +81,13 @@ Thermal energy from CSP significantly reduces long-term operating costs compared
 
 ![Solar Tower Close](images/csp-tower-close.jpg)
 
+Core CSP components include:
+
 - Heliostat mirror field  
 - Central receiver tower  
 - Operating temperature: 500–1000°C  
-- Molten salt thermal storage  
-- Stable, dispatchable energy output  
-
-This system enables reliable, high-temperature energy supply for industrial-scale desalination.
+- Thermal storage using molten salt  
+- Capability for continuous and stabilized operation  
 
 ---
 
@@ -82,177 +95,124 @@ This system enables reliable, high-temperature energy supply for industrial-scal
 
 ![CSP Overview](images/csp-tower-overview.gif)
 
-Solar radiation is concentrated onto the tower receiver, generating heat that is either:
-
-- Directly used for desalination  
-- Stored for continuous operation  
-
-👉 Operational Benefit:
-Energy supply becomes more stable and predictable, reducing operational risk.
+The system captures solar radiation through a field of mirrors arranged around a central tower. The mirrors reflect sunlight toward the receiver, generating high-temperature heat. This heat can then be used directly in desalination processes or stored for more stable operation.
 
 ---
 
-## 💧 Desalination Integration
+### 💧 Desalination
 
-Primary technologies:
+Primary desalination technologies considered:
 
-### MED (Multi-Effect Distillation)
-- High compatibility with thermal systems  
-- Lower energy intensity  
-- Optimized for CSP integration  
+#### MED (Multi-Effect Distillation)
+- Optimized for thermal integration  
+- High efficiency with CSP  
+- Lower operational intensity  
 
-### MSF (Multi-Stage Flash)
-- Proven industrial-scale solution  
-- High reliability  
-- Suitable for large-scale deployment  
-
-👉 Engineering Insight:
-Technology selection directly affects CAPEX, OPEX, system efficiency, and ROI.
+#### MSF (Multi-Stage Flash)
+- Proven industrial technology  
+- Robust and scalable  
+- Higher energy demand  
 
 ---
 
-## 🧂 Mineral Recovery System
+### 🧂 Mineral Recovery
 
-Brine is processed into valuable industrial outputs:
+Potential outputs:
 
 - Sodium Chloride (NaCl)  
 - Potassium Sulfate (K₂SO₄)  
 - Sodium Sulfate  
-- Magnesium compounds  
+- Magnesium salts  
 - Future potential: Lithium extraction  
-
-👉 Financial Impact:
-- Converts waste into revenue  
-- Reduces environmental discharge costs  
-- Enhances total project profitability  
 
 ---
 
-## 📊 Project Scale (Concept Level)
+## 📊 Project Scale (Concept)
 
 | Parameter | Range |
 |----------|------|
-| Water Production | 100,000 – 300,000 m³/day |
+| Water Output | 100,000 – 300,000 m³/day |
 | Power Capacity | 100 – 250 MW |
 | Land Area | 5,000 – 15,000 hectares |
 | Estimated CAPEX | $800M – $2B |
-
-👉 These figures represent conceptual ranges for strategic planning and investment evaluation.
 
 ---
 
 ## 💰 Revenue Model
 
-The project is built on a diversified revenue structure:
+### Multi-stream revenue:
 
-### 1. Water
-- Municipal supply contracts  
-- Industrial water agreements  
+1. Water supply  
+2. Energy utilization/export  
+3. Mineral recovery  
 
-### 2. Energy
-- Internal consumption  
-- Potential grid export  
-
-### 3. Minerals
-- Industrial salts  
-- Fertilizer inputs  
-- Chemical products  
-
-👉 Investment Strength:
-- Multiple revenue streams  
-- Reduced dependency on single market  
-- Improved long-term cash flow stability  
+👉 Diversification reduces risk and increases resilience.
 
 ---
 
-## 📈 Financial Logic
+## ⏱️ Development Timeline
 
-### Cost Optimization
-- Reduced fuel dependency  
-- Lower long-term OPEX  
-- Efficient thermal integration  
-
-### Profit Drivers
-- High-demand water markets  
-- Industrial mineral sales  
-- Energy utilization  
-
-### Value Creation
-- Infrastructure-based long-term returns  
-- Export potential  
-- Currency inflow  
-- Industrial ecosystem development  
-
----
-
-## ⏱️ Implementation Timeline
-
-| Phase | Duration |
-|------|---------|
-| Feasibility | 6–12 months |
-| Engineering & Partnerships | 12–18 months |
-| Financing | 6–12 months |
-| Construction | 24–36 months |
-| Operation | Year 5 onward |
-
-👉 Total time to full-scale operation: 4–6 years
+### Phase 1 – Feasibility (6–12 months)  
+### Phase 2 – Engineering (12–18 months)  
+### Phase 3 – Financing (6–12 months)  
+### Phase 4 – Construction (24–36 months)  
+### Phase 5 – Operation (Year 5+)  
 
 ---
 
 ## 🏗 Implementation Model
 
-Project stakeholders may include:
-
 - Project Developer  
 - Technology Providers  
 - EPC Contractor  
-- Strategic Investors  
-- Industrial Partners  
-
-👉 Scalability:
-Phased development aligned with capital availability and market demand.
+- Investors  
+- Operators  
 
 ---
 
-## 🇩🇰 Strategic Advantage (Denmark – Aalborg)
+## 🇩🇰 Strategic Advantage
 
-- Access to advanced CSP and energy companies  
+Based in Aalborg, Denmark:
+
+- Access to advanced energy technologies  
 - Strong engineering ecosystem  
 - Faster partner engagement  
-- Reduced early-stage risk  
 
 ---
 
-## ⚠️ Key Risks & Considerations
+## 🤝 Potential Partners
 
-- High initial CAPEX  
-- System integration complexity  
-- Infrastructure requirements  
+- Aalborg CSP  
+- SENER  
+- ACWA Power  
+- Veolia  
+
+---
+
+## ⚠️ Key Challenges
+
+- High CAPEX  
+- Technical complexity  
 - Environmental management  
-
-👉 These risks are manageable through:
-- Phased implementation  
-- Strong technical partnerships  
-- Structured financial planning  
+- Infrastructure requirements  
 
 ---
 
 ## 🌱 Strategic Value
 
 - Sustainable water production  
-- Renewable energy integration  
-- Industrial resource generation  
-- Reduced environmental impact  
-- Long-term economic value creation  
+- Clean energy integration  
+- Industrial mineral output  
+- Reduced fossil dependency  
 
 ---
 
 ## 🚀 Vision
 
-To develop a scalable, solar-powered desalination and resource recovery platform that transforms seawater into a sustainable economic asset for the Persian Gulf region.
+To build a scalable, solar-powered infrastructure that transforms seawater into long-term economic and environmental value.
 
 ---
 
 ## 📊 Project Pitch
 
-👉 [View Pitch Overview](./deck.md)
+👉 [View Pitch Overview](./pitch-summary.md)
